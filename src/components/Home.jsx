@@ -8,7 +8,7 @@ function Home() {
   const [message , setMessage] = useState("")
   const toggleImage = () => {
     setChange(change ? false : true);
-    setMessage (message ? "" : "أشطر كتكوت")
+    setMessage (message ? "" : "دوست عليا ليه ")
   };
 
   return (
